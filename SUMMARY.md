@@ -1,5 +1,5 @@
 # Table of contents
 
-- [ROALAND Whitepaper ENG](ROALAND_Whitepaper_ENG.pdf)
-- [ROALAND AUDIT](ROALAND_AUDIT.pdf)
-- [ROALAND-FOUNDATION-LTD](README.md)
+* [ROALAND Whitepaper ENG](README.md)
+* [ROALAND AUDIT](roaland-audit.md)
+* [ROALAND-FOUNDATION-LTD](<README (1).md>)

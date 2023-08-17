@@ -4,7 +4,7 @@
 
 - [ROALAND README](README.md)
 - [ROALAND Whitepaper ENG](whitepaper/roaland-whitepaper-eng.md)
-- [ROALAND Whitepaper ENG](whitepaper/roaland-whitepaper-kor.md)
+- [ROALAND Whitepaper KOR](whitepaper/roaland-whitepaper-kor.md)
 
 ## Audit
 

@@ -1,5 +1,9 @@
 # Table of contents
 
-* [ROALAND Whitepaper ENG](README.md)
-* [ROALAND AUDIT](roaland-audit.md)
+## Whitepaper
 
+* [ROALAND Whitepaper ENG](README.md)
+
+## Audit
+
+* [ROALAND AUDIT](audit/roaland-audit.md)

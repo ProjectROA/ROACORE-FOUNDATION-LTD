@@ -1,2 +1,0 @@
-# ROALAND-FOUNDATION-LTD
-ㄴㅇㄻㄴㄹㅇ

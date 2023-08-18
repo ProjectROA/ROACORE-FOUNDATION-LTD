@@ -12,6 +12,6 @@ layout:
     visible: true
 ---
 
-# ROALAND Whitepaper ENG
+# ROALAND Whitepaper ENG PDF
 
 <figure><object data="../.gitbook\assets\ROALAND_Whitepaper_ENG.pdf" type="application/pdf" alt=""><figcaption></figcaption></figure>

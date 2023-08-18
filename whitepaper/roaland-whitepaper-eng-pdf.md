@@ -14,4 +14,4 @@ layout:
 
 # ROALAND Whitepaper ENG PDF
 
-<figure><object data="../.gitbook\assets\ROALAND_Whitepaper_ENG.pdf" type="application/pdf" alt=""></object><figcaption></figcaption></figure>
+<figure><object data="../.gitbook\assets\ROALAND_Whitepaper_ENG.pdf" type="application/pdf" width="100%" height="800px"></object><figcaption></figcaption></figure>

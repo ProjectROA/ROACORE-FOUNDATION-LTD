@@ -1,13 +1,17 @@
 # Table of contents
 
-- [ROALAND README](README.md)
+- [README](README.md)
 
-## Whitepaper
+## WHITEPAPER
 
-- [ROALAND Whitepaper ENG](whitepaper/roaland-whitepaper-eng.md)
-- [ROALAND Whitepaper KOR](whitepaper/roaland-whitepaper-kor.md)
-- [ROALAND Whitepaper CHN](whitepaper/roaland-whitepaper-chn.md)
+- [ROACORE WHITEPAPER ENG](whitepaper/roaland-whitepaper-eng.md)
+- [ROACORE WHITEPAPER KOR](whitepaper/roaland-whitepaper-kor.md)
+- [ROACORE WHITEPAPER CHN](whitepaper/roaland-whitepaper-chn.md)
 
-## Audit
+## AUDIT
 
-- [ROALAND AUDIT](audit/roaland-audit.md)
+- [ROACORE AUDIT](audit/roaland-audit.md)
+
+## LEGAL
+
+- [ROACORE LEGAL OPINION](audit/roaland-legal-opinion.md)

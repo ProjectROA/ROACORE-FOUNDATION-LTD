@@ -1,9 +1,5 @@
 ---
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -66,4 +62,4 @@ layout:
 
 <figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0024.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0025.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0025 (1).jpg" alt=""><figcaption></figcaption></figure>

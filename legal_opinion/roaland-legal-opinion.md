@@ -49,3 +49,4 @@
 <figure><img src="../.gitbook/assets/legal_opinion/ROACORE_LEGAL_OPINION_page-0024.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/legal_opinion/ROACORE_LEGAL_OPINION_page-0025.jpg" alt=""><figcaption></figcaption></figure>
+

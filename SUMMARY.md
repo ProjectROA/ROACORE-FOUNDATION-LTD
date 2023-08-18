@@ -14,4 +14,4 @@
 
 ## LEGAL
 
-- [ROACORE LEGAL OPINION](audit/roaland-legal-opinion.md)
+- [ROACORE LEGAL OPINION](legal_opinion/roaland-legal-opinion.md)

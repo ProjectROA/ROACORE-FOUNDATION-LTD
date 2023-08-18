@@ -1,8 +1,9 @@
 # Table of contents
 
+- [ROALAND README](README.md)
+
 ## Whitepaper
 
-- [ROALAND README](README.md)
 - [ROALAND Whitepaper ENG](whitepaper/roaland-whitepaper-eng.md)
 - [ROALAND Whitepaper KOR](whitepaper/roaland-whitepaper-kor.md)
 

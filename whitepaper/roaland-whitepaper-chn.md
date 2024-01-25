@@ -1,4 +1,4 @@
-# ROALAND Whitepaper chn
+# ROACORE WHITEPAPER CHN
 
 <figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -44,8 +44,8 @@
 
 <figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0022.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0023.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/240125_ROALAND Whitepaper_CHN_page-0023.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0024.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0025.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0025 (1).jpg" alt=""><figcaption></figcaption></figure>

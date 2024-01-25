@@ -1,4 +1,4 @@
-# ROALAND Whitepaper KOR
+# ROACORE WHITEPAPER KOR
 
 <figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@
 
 <figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0022.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0023.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/240125_ROALAND Whitepaper_KOR_page-0023.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0024.jpg" alt=""><figcaption></figcaption></figure>
 

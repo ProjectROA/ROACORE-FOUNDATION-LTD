@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ROALAND Whitepaper ENG
+# ROACORE WHITEPAPER ENG
 
 <figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0022.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0023.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/240125_ROALAND Whitepaper_ENG_page-0023.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0024.jpg" alt=""><figcaption></figcaption></figure>
 

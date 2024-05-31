@@ -14,9 +14,6 @@ layout:
 
 # ROACORE WHITEPAPER ENG
 
-![image](<https://roacore.s3.ap-northeast-2.amazonaws.com/240514_ROALAND+Whitepaper+(ENG).pdf>)
-![image](https://file.newswire.co.kr/data/datafile2/thumb_480/2008/12/2039103817_20081204102208_5415926347.jpg)
-
 <figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/whitepaper_eng/ROALAND_Whitepaper_ENG_page-0002.jpg" alt=""><figcaption></figcaption></figure>

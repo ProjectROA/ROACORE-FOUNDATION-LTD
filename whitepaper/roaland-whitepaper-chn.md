@@ -1,51 +1,53 @@
 # ROACORE WHITEPAPER CHN
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0001.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-1-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0002.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-2-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0003.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-3-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0004.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-4-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0005.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-5-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0006.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-6-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0007.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-7-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0008.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-8-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0009.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-9-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0010.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-10-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0011.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-11-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0012.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-12-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0013.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-13-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0014.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-14-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0015.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-15-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0016.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-16-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0017.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-17-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0018.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-18-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0019.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-19-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0020.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-20-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0021.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-21-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0022.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-22-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/240125_ROALAND Whitepaper_CHN_page-0023.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-23-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0024.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-24-100.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_chn/ROALAND_Whitepaper_CHN_page-0025 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-25-100.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/img/CHN/JPG/ROALAND Whitepaper (CHN)-26-100.jpg" alt=""><figcaption></figcaption></figure>

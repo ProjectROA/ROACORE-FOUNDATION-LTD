@@ -1,5 +1,33 @@
 # ROACORE WHITEPAPER KOR
 
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-1-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-2-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-3-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-4-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-5-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-6-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-7-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-8-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-9-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-10-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-11-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-12-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-13-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-14-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-15-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-16-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-17-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-18-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-19-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-20-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-21-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-22-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-23-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-24-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-25-100.jpg>)
+![image](<./img/KOR/JPG/ROALAND%20Whitepaper%20(KOR)-26-100.jpg>)
+
+<!--
 <figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0001.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0002.jpg" alt=""><figcaption></figcaption></figure>
@@ -48,4 +76,4 @@
 
 <figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0024.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0025.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/whitepaper_kor/ROALAND_Whitepaper_KOR_page-0025.jpg" alt=""><figcaption></figcaption></figure> -->
